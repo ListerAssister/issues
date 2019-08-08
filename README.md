@@ -1,2 +1,2 @@
-# listerassister_issues
-ListerAssister Issue Tracker
+# ListerAssister Issue Tracker
+Visibility into development issues
