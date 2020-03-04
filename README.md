@@ -1,2 +1,2 @@
 # ListerAssister Issue Tracker
-Visibility into development issues
+This is a private repo used to track internal ListerAssister issues.  
